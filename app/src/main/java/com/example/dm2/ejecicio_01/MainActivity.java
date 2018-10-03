@@ -32,4 +32,9 @@ public class MainActivity extends AppCompatActivity {
         Intent buscadores = new Intent(this,Navegadores.class);
         startActivity(buscadores);
     }
+
+    public void domotica(View view) {
+        Intent domotica = new Intent(this,Domotica.class);
+        startActivity(domotica);
+    }
 }

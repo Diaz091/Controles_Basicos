@@ -32,9 +32,8 @@
                                   <option name="values">
                                     <map>
                                       <entry key="assetType" value="IMAGE" />
-                                      <entry key="iconShape" value="NONE" />
-                                      <entry key="imageAsset" value="C:\Users\dm2\Desktop\bing.jpg" />
-                                      <entry key="outputName" value="ic_bing" />
+                                      <entry key="imageAsset" value="C:\Users\dm2\Desktop\light.jpg" />
+                                      <entry key="outputName" value="ic_light" />
                                     </map>
                                   </option>
                                 </PersistentState>

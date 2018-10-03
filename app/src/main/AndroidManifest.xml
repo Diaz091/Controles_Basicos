@@ -18,7 +18,8 @@
         </activity>
         <activity android:name=".Operar" />
         <activity android:name=".LetraDNI" />
-        <activity android:name=".Navegadores"></activity>
+        <activity android:name=".Navegadores" />
+        <activity android:name=".Domotica"></activity>
     </application>
 
 </manifest>
