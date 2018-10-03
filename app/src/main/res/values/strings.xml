@@ -1,0 +1,19 @@
+<resources>
+    <!--Ejercicio 1 -->
+    <string name="app_name">Ejecicio_01</string>
+    <string name="boton1">Actividad 1</string>
+    <string name="boton2">Actividad 2</string>
+    <string name="boton3">Actividad 3</string>
+    <string name="txt1">Introduce  PRIMER valor: </string>
+    <string name="txt2">Introduce  SEGUNDO valor: </string>
+    <string name="txt3">Resultado: </string>
+    <string name="botonS">+ </string>
+    <string name="botonR">- </string>
+    <string name="botonM">* </string>
+    <string name="botonD">/ </string>
+
+    <!--Ejercicio 2 -->
+    <string name="txtDNI">Introduce un DNI: </string>
+
+
+</resources>
